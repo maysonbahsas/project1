@@ -171,6 +171,7 @@
 }
 .section1 .section1-div1 a{
     text-decoration: none;
+    color:rgb(170, 89, 187);
 }
 .section1-div1:hover h2{
     color:rgb(170, 89, 187);
@@ -744,16 +745,28 @@
     margin-right: 20px;
 }
 .news-info h2{
+    color:rgb(170, 89, 187);
     margin: 20px 0px;
     font-size: 18px;
     font-weight: bold;
 }
 .news-info p{
-    color: rgb(66, 64, 64);
     margin-bottom: 20px;
 }
 .news-a{
     text-decoration: none;
+}
+.news-info-if{
+    color: rgb(4, 0, 255);
+}
+.news-info-in{
+    color: rgb(23, 3, 95);
+}
+.news-info-it{
+    color: rgb(45, 135, 230);
+}
+.news-info a{
+    color:rgb(170, 89, 187);
 }
 .news-div1:after{
     content: "";
@@ -781,7 +794,7 @@
     color: white;
 }
 .news-div1:hover .news-info p{
-    color: rgb(148, 76, 177);
+    color: rgb(66, 64, 64);
 }
 /* ///////////////////////////////////////////////////////////////////////////// */
 .end-div{
